@@ -1,0 +1,11 @@
+[[main]]
+  identifier = "posts"
+  name = "Candidatos"
+  url = "candidatos"
+  weight = 1
+
+[[main]]
+  identifier = "notes"
+  name = "Notas"
+  url = "notas.md"
+  weight = 2

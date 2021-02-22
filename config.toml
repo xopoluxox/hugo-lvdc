@@ -1,0 +1,4 @@
+baseURL = "https://www.lavidrieradelcongreso.com.ar/"
+languageCode = "es-ES"
+title = "La Vidriera Del Congreso"
+theme = "zzo"

@@ -1,0 +1,13 @@
+[es]
+  title = "Candidatos"
+  languageName = "Español"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/es"
+
+[en]
+  title = "Candidates"
+  languageName = "English"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/en"
