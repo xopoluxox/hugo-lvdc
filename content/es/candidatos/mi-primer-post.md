@@ -26,7 +26,7 @@ tags:
 **AUSENCIAS:** <i class="color-rosa">*155, DE UN TOTAL DE 1148 VOTACIONES.*</i>
 > https://www.hcdn.gob.ar/diputados/nabdaladem
 
----
+- - -
 ##### DATOS LEGISLATIVOS
 **COMISIONES:**
 - FAMILIAS, NIÑEZ Y JUVENTUDES ```(Secretaria)```

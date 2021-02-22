@@ -23,8 +23,33 @@
   </url>
   
   <url>
+    <loc>https://lavidrieradelcongreso.com.ar/es/tags/frente-de-todos/</loc>
+    <lastmod>2021-02-21T15:08:51-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lavidrieradelcongreso.com.ar/es/candidatos/mi-primer-post/</loc>
     <lastmod>2021-02-21T15:08:51-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lavidrieradelcongreso.com.ar/es/tags/santiago-del-estero/</loc>
+    <lastmod>2021-02-21T15:08:51-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lavidrieradelcongreso.com.ar/es/tags/</loc>
+    <lastmod>2021-02-21T15:08:51-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lavidrieradelcongreso.com.ar/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://lavidrieradelcongreso.com.ar/es/tags/"
+                />
   </url>
   
   <url>
@@ -45,11 +70,6 @@
                 hreflang="es"
                 href="https://lavidrieradelcongreso.com.ar/es/about/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://lavidrieradelcongreso.com.ar/es/archive/</loc>
-    <lastmod>2020-01-30T12:50:46+09:00</lastmod>
   </url>
   
   <url>
@@ -100,20 +120,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://lavidrieradelcongreso.com.ar/es/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lavidrieradelcongreso.com.ar/es/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavidrieradelcongreso.com.ar/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavidrieradelcongreso.com.ar/es/tags/"
                 />
   </url>
   
