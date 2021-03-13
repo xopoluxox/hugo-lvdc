@@ -14,7 +14,7 @@ tags:
 - FRENTE DE TODOS
 ---
 
-![NORMA AMANDA ABDALA DE MATARAZZO](https://rest.hcdn.gob.ar/intra/proxy/parlamentaria/fotos/autoridades/27054266494)
+![NORMA AMANaDA ABDALA DE MATARAZZO](https://rest.hcdn.gob.ar/intra/proxy/parlamentaria/fotos/autoridades/27054266494)
 
 ##### DATOS PERSONALES
 **NOMBRE Y APELLIDO:** <i class="color-rosa">*NORMA AMANDA ABDALA DE MATARAZZO*</i>
