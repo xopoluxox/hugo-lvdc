@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lavidrieradelcongreso.com.ar/es/candidatos/</loc>
-    <lastmod>2021-02-21T15:08:51-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://lavidrieradelcongreso.com.ar/es/</loc>
     <lastmod>2021-02-21T15:08:51-03:00</lastmod>
     <xhtml:link
@@ -23,12 +18,17 @@
   </url>
   
   <url>
+    <loc>https://lavidrieradelcongreso.com.ar/es/candidatos/</loc>
+    <lastmod>2021-02-21T15:08:51-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lavidrieradelcongreso.com.ar/es/tags/frente-de-todos/</loc>
     <lastmod>2021-02-21T15:08:51-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lavidrieradelcongreso.com.ar/es/candidatos/mi-primer-post/</loc>
+    <loc>https://lavidrieradelcongreso.com.ar/es/candidatos/nabdaladem/</loc>
     <lastmod>2021-02-21T15:08:51-03:00</lastmod>
   </url>
   
@@ -53,45 +53,6 @@
   </url>
   
   <url>
-    <loc>https://lavidrieradelcongreso.com.ar/es/contacto/</loc>
-    <lastmod>2021-02-21T15:07:12-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lavidrieradelcongreso.com.ar/es/about/</loc>
-    <lastmod>2020-01-30T12:50:46+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavidrieradelcongreso.com.ar/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavidrieradelcongreso.com.ar/es/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lavidrieradelcongreso.com.ar/es/archive/</loc>
-    <lastmod>2020-01-30T12:50:46+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lavidrieradelcongreso.com.ar/en/archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lavidrieradelcongreso.com.ar/es/archive/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lavidrieradelcongreso.com.ar/es/content/gallery/album/</loc>
-  </url>
-  
-  <url>
     <loc>https://lavidrieradelcongreso.com.ar/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -103,10 +64,6 @@
                 hreflang="es"
                 href="https://lavidrieradelcongreso.com.ar/es/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://lavidrieradelcongreso.com.ar/es/content/</loc>
   </url>
   
   <url>
