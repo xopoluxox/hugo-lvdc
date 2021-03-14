@@ -21,14 +21,14 @@ minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
 
 # appbar
 enableAppbarSearchIcon = true
-enableAppbarLangIcon = true
+enableAppbarLangIcon = false
 
 # header
 homeHeaderType = "img" # text, img, slide, typewriter
 hideHomeHeaderWhenMobile = true
 
 # menu
-showMobileMenuTerms = ["tags"]
+showMobileMenuTerms = ["tags", "series"]
 
 # body
 enableBreadcrumb = false
